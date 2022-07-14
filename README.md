@@ -61,30 +61,37 @@ gradle clean test -DdeviceHost=browserstack
 ## Отчет BrowserStack
 <img title="BrowserStack dashboard" src="images/screens/Browserstack.png">
 
-## :open_book: Allure отчет
-- ### Главный экран отчета
+<a name="report-Allure-отчет"></a>
+### <img width="6%" title="Jenkins" src="images/logo/Allure_Report.svg"> Отчёт [Allure Reports](https://jenkins.autotests.cloud/job/mobile_tests_diplom/2/allure/)
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/screens/Browserstack.png">
+  <img src="images/screens/AllureReport.png" alt="job" width="900">
 </p>
 
-- ### Страница с проведенными тестами
 <p align="center">
-<img title="Allure Test Page" src="images/img_4.png">
+  <img src="images/screens/AllureReport2.png" alt="job" width="900">
 </p>
 
-## :hammer: Allure Test Ops отчет
+<a name="Allure-TestOPS"></a>
+### <img width="4%" title="Allure TestOPS" src="images/logo/AllureTestOps.svg"> Интеграция с [Allure TestOps](https://allure.autotests.cloud/launch/14342)
 <p align="center">
-<img title="Allure Test Ops Launch" src="images/img_5.png">
+  <img src="images/screens/AllureTestOps.png" alt="job" width="800">
 </p>
 
-## :robot: Отчет в Telegram
 <p align="center">
-<img title="Telegram notification message" src="images/img_6.png">
+  <img src="images/screens/AllureTestOps2.png" alt="job" width="800">
 </p>
 
-## :film_projector: Видео пример прохождения тестов
-> К каждому тесту в отчете прилагается видео. Одно из таких видео представлено ниже.
+<a name="telegram-Уведомление-в-Telegram-при-помощи-бота"></a>
+### <img width="6%" title="Jenkins" src="images/logo/Telegram.svg"> Отчет в Telegram
+
 <p align="center">
-  <img title="Selenoid Video" src="images/876f475c91f3138b9272c6559f5864e2fcca7ea3.gif">
+  <img src="images/screens/telegram.png" alt="job" width="600">
 </p>
 
+<a name="earth_africa-Примеры-видео-о-прохождении-тестов"></a>
+### Видео прохождения тестов
+
+> К каждому тесту в отчете прилагается видео.
+<p align="center">
+  <img title="Selenoid Video" src="images/screens/tprs.gif" >
+</p>
