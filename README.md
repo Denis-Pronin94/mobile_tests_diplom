@@ -89,7 +89,7 @@ gradle clean test -DdeviceHost=browserstack
 </p>
 
 <a name="earth_africa-Примеры-видео-о-прохождении-тестов"></a>
-### Видео прохождения тестов
+## :film_projector: Видео пример прохождения тестов
 
 > К каждому тесту в отчете прилагается видео.
 <p align="center">
