@@ -15,6 +15,16 @@
 - <a href="#telegram-Уведомление-в-Telegram-при-помощи-бота">Отчет в Telegram</a>
 - <a href="#earth_africa-Примеры-видео-о-прохождении-тестов">Видео пример прохождения тестов</a>
 
+- [Технологии и инструменты](#computer-технологии-и-инструменты)
+- [Реализованные проверки](#notebook_with_decorative_cover-реализованные-проверки)
+- [Сборка в Jenkins](#jenkins-Jenkins-job)
+- [Запуск из терминала](#arrow_forward)
+- [Отчет BrowserStack](#отчет-browserstack)
+- [Allure отчет](#report-Allure-отчет)
+- [Интеграция с Allure TestOps](#Allure-TestOPS)
+- [Отчет в Telegram](#telegram-Уведомление-в-Telegram-при-помощи-бота)
+- [Видео примеры прохождения тестов](#earth_africa-Примеры-видео-о-прохождении-тестов)
+
 ## :computer: Технологии и инструменты
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
