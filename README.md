@@ -72,7 +72,7 @@ gradle clean test -DdeviceHost=browserstack
 </p>
 
 <a name="Allure-TestOPS"></a>
-### <img width="4%" title="Allure TestOPS" src="images/logo/AllureTestOps.svg"> Интеграция с [Allure TestOps](https://allure.autotests.cloud/launch/14342)
+### <img width="2.5%" title="Allure TestOPS" src="images/logo/AllureTestOps.svg"> Интеграция с [Allure TestOps](https://allure.autotests.cloud/launch/14342)
 <p align="center">
   <img src="images/screens/AllureTestOps.png" alt="job" width="800">
 </p>
