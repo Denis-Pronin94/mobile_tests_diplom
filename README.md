@@ -58,7 +58,7 @@ gradle clean test -DdeviceHost=local
 gradle clean test -DdeviceHost=browserstack
 ```
 
-## Отчет BrowserStack
+## 👽 Отчет BrowserStack
 <img title="BrowserStack dashboard" src="images/screens/Browserstack.png">
 
 <a name="report-Allure-отчет"></a>
