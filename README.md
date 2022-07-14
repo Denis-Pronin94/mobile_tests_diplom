@@ -20,7 +20,7 @@
 <img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
 <img width="6%" title="Java" src="images/logo/Java.svg">
 <img width="6%" title="Selenide" src="images/logo/Selenide.svg">
-<img width="6%" title="Appium" src="images/logo/Appium_Server.svg">
+<img width="6%" title="Appium" src="images/logo/Appium.svg">
 <img width="6%" title="Browserstack" src="images/logo/Browserstack.svg">
 <img width="6%" title="Selenoid" src="images/logo/Selenoid.svg">
 <img width="6%" title="Allure Report" src="images/logo/Allure_Report.svg">
