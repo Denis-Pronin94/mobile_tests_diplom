@@ -62,7 +62,7 @@ gradle clean test -DdeviceHost=browserstack
 <img title="BrowserStack dashboard" src="images/screens/Browserstack.png">
 
 <a name="report-Allure-отчет"></a>
-### <img width="4%" title="Jenkins" src="images/logo/Allure_Report.svg"> Отчёт [Allure Reports](https://jenkins.autotests.cloud/job/mobile_tests_diplom/2/allure/)
+### <img width="3%" title="Jenkins" src="images/logo/Allure_Report.svg"> Отчёт [Allure Reports](https://jenkins.autotests.cloud/job/mobile_tests_diplom/2/allure/)
 <p align="center">
   <img src="images/screens/AllureReport.png" alt="job" width="900">
 </p>
