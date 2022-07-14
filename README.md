@@ -5,16 +5,6 @@
 
 ## :floppy_disk: Содержание:
 
-- <a href="#computer-технологии-и-инструменты">Технологии и инструменты</a>
-- <a href="#notebook_with_decorative_cover-реализованные-проверки">Реализованные проверки</a>
-- <a href="#jenkins-Jenkins-job">Сборка в Jenkins</a>
-- <a href="#arrow_forward">Запуск из терминала</a>
-- <a href="#Отчет BrowserStack">Отчет BrowserStack</a>
-- <a href="#report-Allure-отчет">Allure отчет</a>
-- <a href="#Allure-TestOPS">Allure Test Ops отчет</a>
-- <a href="#telegram-Уведомление-в-Telegram-при-помощи-бота">Отчет в Telegram</a>
-- <a href="#earth_africa-Примеры-видео-о-прохождении-тестов">Видео пример прохождения тестов</a>
-
 - [Технологии и инструменты](#computer-технологии-и-инструменты)
 - [Реализованные проверки](#notebook_with_decorative_cover-реализованные-проверки)
 - [Сборка в Jenkins](#jenkins-Jenkins-job)
