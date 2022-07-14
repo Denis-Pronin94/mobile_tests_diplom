@@ -62,7 +62,7 @@ gradle clean test -DdeviceHost=browserstack
 <img title="BrowserStack dashboard" src="images/screens/Browserstack.png">
 
 <a name="report-Allure-отчет"></a>
-### <img width="2%" title="Jenkins" src="images/logo/Allure_Report.svg"> Отчёт [Allure Reports](https://jenkins.autotests.cloud/job/mobile_tests_diplom/2/allure/)
+## <img width="3%" title="Jenkins" src="images/logo/Allure_Report.svg"> Отчёт [Allure Reports](https://jenkins.autotests.cloud/job/mobile_tests_diplom/2/allure/)
 <p align="center">
   <img src="images/screens/AllureReport.png" alt="job" width="900">
 </p>
@@ -72,7 +72,7 @@ gradle clean test -DdeviceHost=browserstack
 </p>
 
 <a name="Allure-TestOPS"></a>
-### <img width="2%" title="Allure TestOPS" src="images/logo/AllureTestOps.svg"> Интеграция с [Allure TestOps](https://allure.autotests.cloud/launch/14342)
+## <img width="3%" title="Allure TestOPS" src="images/logo/AllureTestOps.svg"> Интеграция с [Allure TestOps](https://allure.autotests.cloud/launch/14342)
 <p align="center">
   <img src="images/screens/AllureTestOps.png" alt="job" width="800">
 </p>
@@ -82,7 +82,7 @@ gradle clean test -DdeviceHost=browserstack
 </p>
 
 <a name="telegram-Уведомление-в-Telegram-при-помощи-бота"></a>
-### <img width="2%" title="Jenkins" src="images/logo/Telegram.svg"> Отчет в Telegram
+## <img width="3%" title="Jenkins" src="images/logo/Telegram.svg"> Отчет в Telegram
 
 <p align="center">
   <img src="images/screens/telegram.png" alt="job" width="600">
