@@ -40,8 +40,8 @@
 - Проверка существования кнопки 'Donate'
 
 <a name="jenkins-Jenkins-job"></a>
-###   Сборка в Jenkins
-### <img width="2%" title="Jenkins" src="images/logo/Jenkins.svg"> Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/mobile_tests_diplom/)
+##   Сборка в Jenkins
+## <img width="2%" title="Jenkins" src="images/logo/Jenkins.svg"> Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/mobile_tests_diplom/)
 *Для запуска сборки необходимо нажать кнопку <code><strong>*Собрать с параметрами*</strong></code> и указать значения параметров.*
 
 <p align="center">
