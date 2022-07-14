@@ -8,7 +8,7 @@
 - [Технологии и инструменты](#computer-технологии-и-инструменты)
 - [Реализованные проверки](#notebook_with_decorative_cover-реализованные-проверки)
 - [Сборка в Jenkins](#jenkins-Jenkins-job)
-- [Запуск из терминала](#arrow_forward)
+- [Запуск из терминала](#arrow_forward-запуск-из-терминала)
 - [Отчет BrowserStack](#отчет-browserstack)
 - [Allure отчет](#report-Allure-отчет)
 - [Интеграция с Allure TestOps](#Allure-TestOPS)
