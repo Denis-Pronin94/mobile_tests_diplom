@@ -34,38 +34,37 @@
 
 ## :notebook_with_decorative_cover: Реализованные проверки
 - Проверка онбординга
-- Проверка капчи и ее атрибутов, при регистрации нового пользователя
-- Проверка актуальности даты ежедневной статьи, на главной поисковой странице
-- Проверка заголовка искомой статьи
-- Проверка кнопки, ведущую на подборки ежедневных статей
+- Проверка ввода текста 'Appium' в поисковую строку
+- Проверка сохранения истории запросов 
+- Проверка текста на стартовом экране
+- Проверка существования кнопки 'Donate'
 
-## :electric_plug: Сборка в Jenkins
-##### <a target="_blank" href="https://jenkins.autotests.cloud/job/swastest-mobile-tests-12/">Сборка в Jenkins</a>
+<a name="jenkins-Jenkins-job"></a>
+###   Сборка в Jenkins
+### <img width="6%" title="Jenkins" src="images/logo/Jenkins.svg"> Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/mobile_tests_diplom/)
+*Для запуска сборки необходимо нажать кнопку <code><strong>*Собрать с параметрами*</strong></code> и указать значения параметров.*
+
 <p align="center">
-<img title="Jenkins Dashboard" src="images/img.png">
-</p>  
+  <img src="images/screens/Jenkins.png" alt="job" width="900">
+</p>
 
 ## :arrow_forward: Запуск из терминала
 Локальный запуск:
 ```
-gradle clean android -Dhost=local
+gradle clean test -DdeviceHost=local
 ```
 Запуск в Jenkins:
 ```
-gradle clean android -Dhost=browserstack
+gradle clean test -DdeviceHost=browserstack
 ```
-## :gear: Запуск тестов с выбором параметров
-<img title="Jenkins ParamStart" src="images/img_2.png">
 
-## 👽 Отчет BrowserStack
-Пока бегут наши тесты в Jenkins, за ними можно подсматривать в личном кабинете BrowserStack - это очень занимательно,
-а после прогона всех, нужным нам, тестов - сервис сгенерирует еще дополнительные и ценные отчеты по состоянию устройства, например.
-<img title="BrowserStack dashboard" src="images/img_1.png">
+## Отчет BrowserStack
+<img title="BrowserStack dashboard" src="images/screens/Browserstack.png">
 
 ## :open_book: Allure отчет
 - ### Главный экран отчета
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/img_3.png">
+<img title="Allure Overview Dashboard" src="images/screens/Browserstack.png">
 </p>
 
 - ### Страница с проведенными тестами
