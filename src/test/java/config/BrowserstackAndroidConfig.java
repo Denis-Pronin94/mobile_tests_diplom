@@ -1,23 +1,18 @@
-package owner;
+package config;
 
 import org.aeonbits.owner.Config;
 
 @Config.Sources({"classpath:credentials.properties"})
 public interface BrowserstackAndroidConfig extends Config {
 
-    @Key("login")
     String login();
 
-    @Key("password")
     String password();
 
-    @Key("baseURL")
     String baseUrl();
 
-    @Key("appURL")
     String appUrl();
 
-    @Key("device")
     String device();
 
     @Key("os_version")

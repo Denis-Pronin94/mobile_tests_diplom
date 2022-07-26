@@ -6,7 +6,7 @@ import org.openqa.selenium.Capabilities;
 import org.openqa.selenium.MutableCapabilities;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import owner.BrowserstackAndroidConfig;
+import config.BrowserstackAndroidConfig;
 
 import java.net.MalformedURLException;
 import java.net.URL;
